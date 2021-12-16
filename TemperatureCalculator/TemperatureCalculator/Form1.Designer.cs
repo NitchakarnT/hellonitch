@@ -34,6 +34,7 @@
             this.textBoxF = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.buttonConvert2 = new System.Windows.Forms.Button();
+            this.buttonClear = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // buttonConvert
@@ -88,11 +89,22 @@
             this.buttonConvert2.UseVisualStyleBackColor = true;
             this.buttonConvert2.Click += new System.EventHandler(this.buttonConvert2_Click);
             // 
+            // buttonClear
+            // 
+            this.buttonClear.Location = new System.Drawing.Point(288, 41);
+            this.buttonClear.Name = "buttonClear";
+            this.buttonClear.Size = new System.Drawing.Size(75, 51);
+            this.buttonClear.TabIndex = 6;
+            this.buttonClear.Text = "Clear";
+            this.buttonClear.UseVisualStyleBackColor = true;
+            this.buttonClear.Click += new System.EventHandler(this.buttonClear_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(335, 124);
+            this.ClientSize = new System.Drawing.Size(401, 124);
+            this.Controls.Add(this.buttonClear);
             this.Controls.Add(this.buttonConvert2);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.textBoxF);
@@ -114,5 +126,6 @@
         private TextBox textBoxF;
         private Label label2;
         private Button buttonConvert2;
+        private Button buttonClear;
     }
 }

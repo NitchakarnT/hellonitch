@@ -34,5 +34,11 @@ namespace TemperatureCalculator
             // show input to textbox
             textBoxC.Text = c.ToString();
         }
+
+        private void buttonClear_Click(object sender, EventArgs e)
+        {
+            textBoxC.Text = "";
+            textBoxF.Text = "";
+        }
     }
 }
