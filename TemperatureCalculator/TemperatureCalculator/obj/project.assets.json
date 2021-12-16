@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ADmin\\.nuget\\packages\\": {}
+    "C:\\Users\\Windows 10\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADmin\\Documents\\GitHub\\hellonitch\\TemperatureCalculator\\TemperatureCalculator\\TemperatureCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\Windows 10\\Documents\\GitHub\\hellonitch\\TemperatureCalculator\\TemperatureCalculator\\TemperatureCalculator.csproj",
       "projectName": "TemperatureCalculator",
-      "projectPath": "C:\\Users\\ADmin\\Documents\\GitHub\\hellonitch\\TemperatureCalculator\\TemperatureCalculator\\TemperatureCalculator.csproj",
-      "packagesPath": "C:\\Users\\ADmin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADmin\\Documents\\GitHub\\hellonitch\\TemperatureCalculator\\TemperatureCalculator\\obj\\",
+      "projectPath": "C:\\Users\\Windows 10\\Documents\\GitHub\\hellonitch\\TemperatureCalculator\\TemperatureCalculator\\TemperatureCalculator.csproj",
+      "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Windows 10\\Documents\\GitHub\\hellonitch\\TemperatureCalculator\\TemperatureCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ADmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
