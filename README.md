@@ -1,2 +1,2 @@
 # hellonitch
-this is my first c# program
+my name is Nitchakarn Thaiphakdee
